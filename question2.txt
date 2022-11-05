@@ -1,0 +1,5 @@
+1. Print Hello world! in reverse
+2. Print 1 to 100 skipping every multiples of 5 and 2
+3. Check for n-digit arm-strong number
+4. Merge Sort
+5. Bubble sort
