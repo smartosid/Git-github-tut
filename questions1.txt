@@ -1,0 +1,5 @@
+1. Check Even or odd
+2. Check Prime number
+3. Check for automorphic 2 digit number
+4. Print all the characters in a string in descending order of their occurence
+5. Calculator
